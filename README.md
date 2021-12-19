@@ -1,2 +1,3 @@
 # MachineLearning
-Machine learning examples
+
+Machine learning examples using TensorFlow and Keras.
