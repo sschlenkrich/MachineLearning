@@ -1,6 +1,7 @@
-numpy
 matplotlib
-scipy
-tqdm
-tensorflow
+numpy
+pandas
 pydot
+scipy
+tensorflow
+tqdm
